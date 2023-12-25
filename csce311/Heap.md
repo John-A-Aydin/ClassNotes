@@ -1,0 +1,1 @@
+ An area of pre-reserved computer main storage ( memory ) that a program process can use to store data in some variable amount that won't be known until the program is running.

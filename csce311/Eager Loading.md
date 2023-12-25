@@ -1,0 +1,1 @@
+- Everything is loaded at creation or initialization instead of as they're needed

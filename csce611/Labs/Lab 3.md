@@ -1,0 +1,1 @@
+Use flip flop for io2_out

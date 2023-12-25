@@ -1,0 +1,1 @@
+### $$P(A_k)=\binom{k-1}{r-1}\Big[\frac{R}{N}\Big]^r \Big[1-\frac{R}N\Big]^{k-r}$$

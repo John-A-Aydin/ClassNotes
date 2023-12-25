@@ -1,0 +1,1 @@
+- Pieces of code or data only loaded as they are needed during program execution

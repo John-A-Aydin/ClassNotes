@@ -1,0 +1,9 @@
+# File types
+*.pdf
+*.xlsx
+*.csv
+*.jar
+
+# Obsidian
+.obsidian/workspace.json
+
