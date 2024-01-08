@@ -24,4 +24,4 @@ Setting y to 0 will show us a 2d cross section of the shape on the y axis
 #### Def
 The set of all points (x,y) that satisfy $\large f(x,y)=C$ for some constant C is called a level curve of f(x,y).
 
-Think of those maps with lines that show height. The mountains / hills are just a multivariable function and the lines are just level curves
+Think of those maps with lines that show height. The mountains / hills are just a multi-variable function and the lines are just level curves
