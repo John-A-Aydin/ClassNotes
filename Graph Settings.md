@@ -58,6 +58,13 @@ settings.colorGroups = [
       "rgb": 16771584
     }
   },
+  {
+    "query": "path:\"Electrical Lab\"",
+    "color": {
+      "a": 1,
+      "rgb": 16771584
+    }
+  },
 ]
 app.workspace.detachLeavesOfType('graph')
 await graph.saveData(settings)
