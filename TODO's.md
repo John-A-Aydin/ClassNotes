@@ -1,2 +1,3 @@
 - [ ] Download Quartus for Embedded Systems? 
+- [ ] Create repo for Embedded
 - [ ] 
