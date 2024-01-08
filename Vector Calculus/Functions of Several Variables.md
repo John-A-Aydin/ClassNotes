@@ -1,8 +1,8 @@
-#14-1
+#14-
 
 $\Large f: D\rightarrow R$
 
-D and R can be multidimensional
+D and R can be tag:#14-multidimensional
 - For two dimensions it would be the [[Cartesian Product]] (Ordered pair)
 
 ### Finding Domains
@@ -21,7 +21,6 @@ If we set one of the variables to be constant and look at the other two, we can 
 $\large z= x^{2}+y^{2}$
 Setting y to 0 will show us a 2d cross section of the shape on the y axis
 
-#### Def
-The set of all points (x,y) that satisfy $\large f(x,y)=C$ for some constant C is called a level curve of f(x,y).
+We can also set $\large z$, the dependent variable to a constant.
+This gives us a [[Level Curve]]
 
-Think of those maps with lines that show height. The mountains / hills are just a multi-variable function and the lines are just level curves

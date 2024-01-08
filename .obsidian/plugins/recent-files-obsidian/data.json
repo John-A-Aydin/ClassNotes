@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Sieve of Eratosthenes",
+      "path": "Data Structures/Sieve of Eratosthenes.md"
+    },
+    {
+      "basename": "Euclidean Algorithm",
+      "path": "Discrete Structures/Euclidean Algorithm.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "Data Structures/Algorithms.md"
+    },
+    {
+      "basename": "Project 0",
+      "path": "Electrical Lab/Project 0.md"
+    },
+    {
       "basename": "Functions of Several Variables",
       "path": "Vector Calculus/Functions of Several Variables.md"
+    },
+    {
+      "basename": "Level Curve",
+      "path": "Vector Calculus/Definitions/Level Curve.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Vector Calculus/Overview.md"
     },
     {
       "basename": "Graph Settings",
@@ -11,10 +35,6 @@
     {
       "basename": "TODO's",
       "path": "TODO's.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Vector Calculus/Overview.md"
     },
     {
       "basename": "First Day",
