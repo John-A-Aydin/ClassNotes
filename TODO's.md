@@ -1,0 +1,2 @@
+- [ ] Download Quartus for Embedded Systems? 
+- [ ] 
