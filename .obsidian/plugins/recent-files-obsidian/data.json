@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Limits and Continuity",
+      "path": "Vector Calculus/Limits and Continuity.md"
+    },
+    {
+      "basename": "Functions of Several Variables",
+      "path": "Vector Calculus/Functions of Several Variables.md"
+    },
+    {
       "basename": "Project 1",
       "path": "Embedded Systems/Project 1.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Project 0",
       "path": "Electrical Lab/Project 0.md"
-    },
-    {
-      "basename": "Functions of Several Variables",
-      "path": "Vector Calculus/Functions of Several Variables.md"
     },
     {
       "basename": "Level Curve",
