@@ -1,8 +1,11 @@
 - [ ] Download Quartus for Embedded Systems? 
 - [ ] Create repo for Embedded
-- [ ] go to [[Functions of Several Variables]] and move definition
+- [x] go to [[Functions of Several Variables]] and move definition
 - [ ] read writing class schedule
 - [ ] maybe get business writing textbook
 - [ ] Syllabus quiz for writing
-- [ ] Check life gpa
+- [x] Check life gpa
+- [ ] Check BB for vec calc MatLab
+- [ ] Register for extra class
+- [ ] Safety quiz elct lab
 - [ ] 

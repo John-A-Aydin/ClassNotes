@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Limits and Continuity",
-      "path": "Vector Calculus/Limits and Continuity.md"
+      "basename": "Graphs",
+      "path": "Graphs.md"
+    },
+    {
+      "basename": "Dynamic Arrays",
+      "path": "Data Structures/Dynamic Arrays.md"
+    },
+    {
+      "basename": "Priority Queue",
+      "path": "Data Structures/Priority Queue.md"
+    },
+    {
+      "basename": "Abstract Data Type",
+      "path": "Data Structures/Abstract Data Type.md"
+    },
+    {
+      "basename": "Analysis of Algorithms",
+      "path": "Data Structures/Analysis of Algorithms.md"
+    },
+    {
+      "basename": "Decrease and Conquer",
+      "path": "Data Structures/Decrease and Conquer.md"
+    },
+    {
+      "basename": "Divide and Conquer",
+      "path": "Data Structures/Divide and Conquer.md"
+    },
+    {
+      "basename": "Recursion",
+      "path": "Data Structures/Recursion.md"
+    },
+    {
+      "basename": "Brute Force",
+      "path": "Data Structures/Brute Force.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "TODO's",
+      "path": "TODO's.md"
     },
     {
       "basename": "Functions of Several Variables",
       "path": "Vector Calculus/Functions of Several Variables.md"
     },
     {
-      "basename": "Project 1",
-      "path": "Embedded Systems/Project 1.md"
+      "basename": "Limits and Continuity",
+      "path": "Vector Calculus/Limits and Continuity.md"
     },
     {
-      "basename": "TODO's",
-      "path": "TODO's.md"
+      "basename": "Project 1",
+      "path": "Embedded Systems/Project 1.md"
     },
     {
       "basename": "Sieve of Eratosthenes",
