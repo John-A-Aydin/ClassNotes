@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "TODO's",
+      "path": "TODO's.md"
+    },
+    {
       "basename": "Graphs",
-      "path": "Graphs.md"
+      "path": "Data Structures/Graphs.md"
+    },
+    {
+      "basename": "Analysis of Algorithms",
+      "path": "Data Structures/Analysis of Algorithms.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Brute Force",
+      "path": "Data Structures/Brute Force.md"
+    },
+    {
+      "basename": "Recursion",
+      "path": "Data Structures/Recursion.md"
     },
     {
       "basename": "Dynamic Arrays",
       "path": "Data Structures/Dynamic Arrays.md"
+    },
+    {
+      "basename": "First Day",
+      "path": "Embedded Systems/First Day.md"
     },
     {
       "basename": "Priority Queue",
@@ -17,32 +41,12 @@
       "path": "Data Structures/Abstract Data Type.md"
     },
     {
-      "basename": "Analysis of Algorithms",
-      "path": "Data Structures/Analysis of Algorithms.md"
-    },
-    {
       "basename": "Decrease and Conquer",
       "path": "Data Structures/Decrease and Conquer.md"
     },
     {
       "basename": "Divide and Conquer",
       "path": "Data Structures/Divide and Conquer.md"
-    },
-    {
-      "basename": "Recursion",
-      "path": "Data Structures/Recursion.md"
-    },
-    {
-      "basename": "Brute Force",
-      "path": "Data Structures/Brute Force.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "TODO's",
-      "path": "TODO's.md"
     },
     {
       "basename": "Functions of Several Variables",
@@ -83,10 +87,6 @@
     {
       "basename": "Graph Settings",
       "path": "Graph Settings.md"
-    },
-    {
-      "basename": "First Day",
-      "path": "Embedded Systems/First Day.md"
     }
   ],
   "omittedPaths": [],
