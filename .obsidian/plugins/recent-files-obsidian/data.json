@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Partial Derivatives",
+      "path": "Vector Calculus/Partial Derivatives.md"
+    },
+    {
+      "basename": "Two Path Test",
+      "path": "Vector Calculus/Two Path Test.md"
+    },
+    {
+      "basename": "Definitions",
+      "path": "Discrete Structures/Definitions.md"
+    },
+    {
+      "basename": "Limits and Continuity",
+      "path": "Vector Calculus/Limits and Continuity.md"
+    },
+    {
       "basename": "Graphs",
-      "path": "Graphs.md"
+      "path": "Data Structures/Graphs.md"
+    },
+    {
+      "basename": "TODO's",
+      "path": "TODO's.md"
     },
     {
       "basename": "Dynamic Arrays",
@@ -41,16 +61,8 @@
       "path": "README.md"
     },
     {
-      "basename": "TODO's",
-      "path": "TODO's.md"
-    },
-    {
       "basename": "Functions of Several Variables",
       "path": "Vector Calculus/Functions of Several Variables.md"
-    },
-    {
-      "basename": "Limits and Continuity",
-      "path": "Vector Calculus/Limits and Continuity.md"
     },
     {
       "basename": "Project 1",
