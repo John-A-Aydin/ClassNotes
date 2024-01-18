@@ -5,3 +5,5 @@
 - [ ] Check BB for vec calc MatLab
 - [ ] Register for extra class
 - [ ] Safety quiz elct lab
+- [ ] listen to ch11 business writing video
+- [ ] add push/pull options to notes script

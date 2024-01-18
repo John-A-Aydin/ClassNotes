@@ -65,6 +65,13 @@ settings.colorGroups = [
       "rgb": 16771584
     }
   },
+  {
+	"query": "path:\"Business Writing\"",
+    "color": {
+      "a": 1,
+      "rgb": 10019526
+    }
+  },
 ]
 app.workspace.detachLeavesOfType('graph')
 await graph.saveData(settings)

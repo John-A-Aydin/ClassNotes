@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "TODO's",
+      "path": "TODO's.md"
+    },
+    {
+      "basename": "Graph Settings",
+      "path": "Graph Settings.md"
+    },
+    {
+      "basename": "Project 1",
+      "path": "Embedded Systems/Project 1.md"
+    },
+    {
+      "basename": "First Day",
+      "path": "Embedded Systems/First Day.md"
+    },
+    {
+      "basename": "Project 0 1",
+      "path": "Electrical Lab/Project 0 1.md"
+    },
+    {
+      "basename": "HW 1",
+      "path": "Business Writing/HW 1.md"
+    },
+    {
       "basename": "Partial Derivatives",
       "path": "Vector Calculus/Partial Derivatives.md"
     },
@@ -19,10 +43,6 @@
     {
       "basename": "Graphs",
       "path": "Data Structures/Graphs.md"
-    },
-    {
-      "basename": "TODO's",
-      "path": "TODO's.md"
     },
     {
       "basename": "Dynamic Arrays",
@@ -65,10 +85,6 @@
       "path": "Vector Calculus/Functions of Several Variables.md"
     },
     {
-      "basename": "Project 1",
-      "path": "Embedded Systems/Project 1.md"
-    },
-    {
       "basename": "Sieve of Eratosthenes",
       "path": "Data Structures/Sieve of Eratosthenes.md"
     },
@@ -91,14 +107,6 @@
     {
       "basename": "Overview",
       "path": "Vector Calculus/Overview.md"
-    },
-    {
-      "basename": "Graph Settings",
-      "path": "Graph Settings.md"
-    },
-    {
-      "basename": "First Day",
-      "path": "Embedded Systems/First Day.md"
     }
   ],
   "omittedPaths": [],
