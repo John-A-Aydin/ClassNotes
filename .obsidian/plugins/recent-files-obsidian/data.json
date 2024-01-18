@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Recursion",
+      "path": "Data Structures/Recursion.md"
+    },
+    {
       "basename": "TODO's",
       "path": "TODO's.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Divide and Conquer",
       "path": "Data Structures/Divide and Conquer.md"
-    },
-    {
-      "basename": "Recursion",
-      "path": "Data Structures/Recursion.md"
     },
     {
       "basename": "Brute Force",
