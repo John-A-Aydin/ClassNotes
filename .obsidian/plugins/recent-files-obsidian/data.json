@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Divide and Conquer",
+      "path": "Data Structures/Divide and Conquer.md"
+    },
+    {
+      "basename": "Graphs",
+      "path": "Data Structures/Graphs.md"
+    },
+    {
       "basename": "Recursion",
       "path": "Data Structures/Recursion.md"
     },
@@ -45,10 +53,6 @@
       "path": "Vector Calculus/Limits and Continuity.md"
     },
     {
-      "basename": "Graphs",
-      "path": "Data Structures/Graphs.md"
-    },
-    {
       "basename": "Dynamic Arrays",
       "path": "Data Structures/Dynamic Arrays.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Decrease and Conquer",
       "path": "Data Structures/Decrease and Conquer.md"
-    },
-    {
-      "basename": "Divide and Conquer",
-      "path": "Data Structures/Divide and Conquer.md"
     },
     {
       "basename": "Brute Force",
