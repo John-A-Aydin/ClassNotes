@@ -1,9 +1,9 @@
 - [ ] Download Quartus for Embedded Systems? 
 - [ ] Create repo for Embedded
 - [ ] read writing class schedule
-- [ ] maybe get business writing textbook
+- [x] maybe get business writing textbook
 - [ ] Check BB for vec calc MatLab
-- [ ] Register for extra class
+- [x] Register for extra class
 - [ ] Safety quiz elct lab
 - [ ] listen to ch11 business writing video
-- [ ] add push/pull options to notes script
+- [x] add push/pull options to notes script

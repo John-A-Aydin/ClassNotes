@@ -1,6 +1,6 @@
 
 ##### Sparse
-- Few edges between  verticies
+- Few edges between  vertices
 ##### Dense
 - Nearly at capacity for edges
 
