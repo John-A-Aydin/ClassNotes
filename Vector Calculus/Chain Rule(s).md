@@ -86,3 +86,52 @@ Then we write it in terms of only u's and v's
 
 $\large \frac{\partial Z}{\partial u} = 12(2u + 7v) -50(uv)v = 24u + 84v - 50uv^{2}$
 
+
+# Generalization of Chain Rule
+
+If $\large f = f(x_{1}, x_{2}, \text{ ... }, x_{m})$ and each $\large x_{i} = x_{i}(t_{1}, t_{2} \text{ ... }, t_{n})$
+for $\large i = 1, 2, 3, \text{ ... }, m$
+
+Then how do we find $\Large \frac{\partial f}{\partial t_{j}}$ for $\large j = 1, 2, \text{ ... }, n$
+```mermaid
+graph TD;
+id1((f)) --> id2((x1));
+id2((x1)) --> id4((t1));
+id2((x1)) --> id5((t2));
+id6((x2)) --> id7((t1));
+id1((f)) --> id6((x2));
+id6((x2)) --> id8((t2));
+```
+Tree showing dependencies when m and n are 2
+
+##### In general,
+
+$$\Large \frac{\partial f}{\partial t_{j}} = \frac{\partial f}{\partial x_{1}}\frac{\partial x_{1}}{\partial t_{j}} + \frac{\partial f}{\partial x_{2}}\frac{\partial x_{2}}{\partial t_{j}} + \text{ ... } +\frac{\partial f}{\partial x_{m}}\frac{\partial x_{m}}{\partial t_{j}}$$
+
+for $\large j = 1, 2, 3, \text{ ... }, n$
+
+- Make sure you keep track of which variable you're differentiating
+
+### Example
+
+Find $\Large \frac{\partial w}{\partial r}$ where $\large w = e^{2x-y+3z^{2}}$ and
+$\large x = r+s-t$
+$\large y = 2r-3s$
+$\large z = cos(rst)$
+
+In this example, $\large m = 3 \text{, } n = 3$
+
+First lets write out what the chain rule will look like
+
+$\Large \frac{\partial w}{\partial r} = \frac{\partial w}{\partial x}\frac{\partial x}{\partial r}+ \frac{\partial w}{\partial y} \frac{\partial y}{\partial r} +\frac{\partial w}{\partial z}\frac{\partial z}{\partial r}$
+
+Now we can start solving each term
+
+$\Large\frac{\partial w}{\partial r} = (2e^{2x-y+3z^{2}})(1) + (-e^{2x-y+3z^{2}})(2) + (6ze^{2x-y+3z^{2}})(-st*sin(rst))$
+
+$\Large \frac{\partial w}{\partial r} = -6st*sin(rst)ze^{2x-y+3z^{2}}$
+
+Now we have to rewrite in terms of r, s, and t and simplify
+
+
+

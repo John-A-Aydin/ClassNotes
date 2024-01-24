@@ -11,7 +11,7 @@ id1((f)) --> id3((y));
 id3((y)) --> id5((x));
 
 ```
-#### Apply  the Calc III version of the [[Chain Rule(s)]]
+#### Applying the Calc III version of the [[Chain Rule(s)]]
 
 $$\Large\frac{d}{dx}\big[F(x,y)= 0\big]$$
 $$\large \frac{\partial F}{\partial x}+ \frac{dF}{dy}\frac{dF}{dx} = 0$$
