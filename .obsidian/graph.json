@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 16771584
       }
+    },
+    {
+      "query": "path:\"Business Writing\"",
+      "color": {
+        "a": 1,
+        "rgb": 10019526
+      }
     }
   ],
   "collapse-display": true,
