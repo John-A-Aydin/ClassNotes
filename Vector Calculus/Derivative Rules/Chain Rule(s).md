@@ -2,7 +2,7 @@
 
 Recall the Calc 1 chain rule
 
-$\large y=f(x(t)) \text{ then } \frac{dy}{dt} = \frac{df}{dx}* \frac{dx}{dt}$
+$$\large y=f(x(t)) \text{ then } \frac{dy}{dt} = \frac{df}{dx}\frac{dx}{dt}$$
 
 Now, suppose that $\large z = f(x,y)$ where $\large x=x(t)$ and $\large y=y(t)$
 Notice that y and x are functions of t which makes this a single variable function
