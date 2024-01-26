@@ -1,0 +1,1 @@
+$$\large \frac{d(uv)}{dx} = u \frac{dv}{dx}+ v \frac{du}{dx}$$
