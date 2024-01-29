@@ -1,4 +1,4 @@
-A vector of the form
+nA vector of the form
 
 $\large \vec{r}(x,y) = <f(x,y), g(x,y)>$
 
