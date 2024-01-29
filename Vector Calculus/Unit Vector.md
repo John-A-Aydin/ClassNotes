@@ -10,4 +10,4 @@ $\Large \vec{u} = \frac{\vec{v}}{||\vec{v}||}$
 
 Make $\large<2,5>$ into a unit vector
 
-$\Large\vec{u} = \frac{<2,5>}{\sqrt{29}}  = <\frac{2}{\sqrt{29}}, \frac{5}{\sqrt{29}}$
+$\Large\vec{u} = \frac{<2,5>}{\sqrt{29}}  = \langle\frac{2}{\sqrt{29}}, \frac{5}{\sqrt{29}}\rangle$ 

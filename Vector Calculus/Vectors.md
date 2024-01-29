@@ -11,6 +11,16 @@ $$\Large C\vec{v} = \langle Cv_{1}, Cv_{2,}\text{ ... }Cv_{n}\rangle$$
 
 ### Vector Addition
 $$\Large \vec{u}+\vec{v} = \langle u_{1}+v_{1}, u_{2}+v_{2}, \text{ ... } u_{n}+v_{n}\rangle$$
+
+### Dot Product (Inner Product)
+$$\Large \vec{u}\cdot \vec{v} = u_{1}v_{1}+u_{2}v_{2} \text{ ... } = \sum\limits_{i=1}^{n}u_{i}v_{i}$$
+The dot product of two vectors results in a scalar value.
+
+Thanks to the law of cosines we can use the dot product to compute the angle $\large \theta$ between two given vectors.
+
+$\large \vec{u}\cdot \vec{v} = ||\vec{u}||||\vec{v}||cos \theta$ 
+
+
 # Magnitude
 
 The magnitude / norm of a vector is its length.
@@ -24,12 +34,7 @@ $\large ||\vec{v}|| = \sqrt{v_{1}^{2} + v_{2}^{2} + \text{ ... } + v_{n}^{2}} = 
 ### Example
 $\large \vec{v} = <2,5>$,   $\large ||\vec{v}|| = \sqrt{2^{2}+5^{2}} = \sqrt{29}$
 
-# Unit Vectors
-
-A unit vector is a vector of magnitude 1
-
-$\large ||\vec{u}|| = 1$
-
+### [[Unit Vector]]
 
 
 
