@@ -6,4 +6,4 @@
 - [x] Register for extra class
 - [ ] Safety quiz elct lab
 - [ ] listen to ch11 business writing video
-- [x] add push/pull options to notes script
+- [ ] Fill in point  notes for vec [[Extrema]]
