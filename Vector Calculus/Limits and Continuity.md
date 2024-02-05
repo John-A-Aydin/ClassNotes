@@ -53,4 +53,4 @@ In 1d space there are only 2 ways to approach a point, but in 2d space we can ap
 What exactly does it mean if
 $\large \lim_{(x,y)\to (c,d)} f(x,y)$  DNE?
 
-In order to show that $\large \lim_{(x,y)\to (c,d)} f(x,y)$  DNE we will use the [[Two Path Test]] a
+In order to show that $\large \lim_{(x,y)\to (c,d)} f(x,y)$  DNE we will use the [[Two Path Test]]
