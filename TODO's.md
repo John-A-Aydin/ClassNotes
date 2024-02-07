@@ -7,3 +7,4 @@
 - [ ] Safety quiz elct lab
 - [ ] listen to ch11 business writing video
 - [ ] Fill in point  notes for vec [[Extrema]]
+- [ ] look up lagrange

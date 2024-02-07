@@ -55,7 +55,7 @@ but we don't know if it is a max or min or neither
 
 # A Systematic Way to Find Critical Points
 
-### Theorem: The Second Partials Test
+### Theorem: [[The Second Partials Test]]
 
 Suppose that $\large f$ has continuous 2nd derivatives and that $\large P_{0}$ satisfies $\large \nabla f(P_{0}) = \vec{0}$
 
