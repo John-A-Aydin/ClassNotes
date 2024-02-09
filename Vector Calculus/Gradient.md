@@ -38,9 +38,9 @@ Then,
 With [[Directional Derivatives]] the gradient can be used
 $$\large D_{\vec{u}}f(x_{0},y_{0}) = \nabla f(x_{0}, y_{0})\cdot \vec{u} = ||\nabla f(x_{0}, y_{0}||*||\vec{u}||cos \theta = ||\nabla f(x_{0}, y_{0}||cos \theta$$
 but we can also use a property of dot products to get
-$$\large D_{\vec{u}}f(x_{0}, y_{0})  = ||\nabla f(x_{0}, y_{0}||*||\vec{u}||cos \theta$$
+$$\large D_{\vec{u}}f(x_{0}, y_{0})  = ||\nabla f(x_{0}, y_{0})||*||\vec{u}||cos \theta$$
 Also notice that the magnitude of a [[Unit Vector|unit vector]] is always 1 so
-$$\large D_{\vec{u}}f(x_{0}, y_{0})  = ||\nabla f(x_{0}, y_{0}||cos \theta$$
+$$\large D_{\vec{u}}f(x_{0}, y_{0})  = ||\nabla f(x_{0}, y_{0})||cos \theta$$
 
 This tells us that the directional derivative is as large as possible when $\large cos \theta = 1$ or when $\large \theta = 0$ (when $\large \nabla f$ and $\large \vec{u}$ point in the same direction)
 
