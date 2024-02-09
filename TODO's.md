@@ -1,10 +1,5 @@
-- [ ] Download Quartus for Embedded Systems? 
-- [ ] Create repo for Embedded
-- [ ] read writing class schedule
-- [x] maybe get business writing textbook
-- [ ] Check BB for vec calc MatLab
-- [x] Register for extra class
-- [ ] Safety quiz elct lab
 - [ ] listen to ch11 business writing video
 - [ ] Fill in point  notes for vec [[Extrema]]
 - [ ] look up lagrange
+- [ ] look up csce 355
+- [ ] look up optimization class

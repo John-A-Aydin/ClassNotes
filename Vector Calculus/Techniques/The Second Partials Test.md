@@ -1,3 +1,5 @@
+==**14.7**==
+#VecTest1 
 A test to find [[Extrema|extrema]] using the [[Gradient|gradient]]
 
 Suppose that $\large f$ has continuous 2nd derivatives and that $\large P_{0}$ satisfies $\large \nabla f(P_{0}) = \vec{0}$

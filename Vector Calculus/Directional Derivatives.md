@@ -1,3 +1,4 @@
+#VecTest1 
 We want to measure the rate of change of $\large f(x,y)$ in <u>any</u> given direction.
 
 To do this we use a [[Unit Vector|unit vector]] $\large \vec{u}$
