@@ -1,7 +1,6 @@
 Test to show if a 2d limit DNE
 
 We have to come up with two different approaches to the same point that lead to different answers. Finding two answers immediately shows that the limit does not exist.
-
 ### Ex.
 Show that $\large\lim_{(x,y)\to(0,0)}\frac{x^{2}-y^{2}}{x^{2}+y^{2}}$ does not exist (DNE)
 

@@ -27,9 +27,9 @@ Note that $\large D(P_{0}, r)$ represents a circle, sphere, etc of radius r cent
 If $\large f$ is continuous on a closed, bounded set $\large S$, then $\large f$ attains both an absolute maximum and an absolute min on $\large S$
 
 There are 3 possibilities for the locations of these extrema
-1. Points where all of the derivatives equal 0 (Stationary Points) (flat tangent plane at this point)
+1. Points where all of the derivatives equal 0 ([[Stationary Points]]) (flat tangent plane at this point)
 2. Points on the edges of the interval
-3. Points where one of the derivatives are undefined (Singular Points)
+3. Points where one of the derivatives are undefined ([[Singular Points]])
 
 
 

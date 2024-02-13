@@ -21,22 +21,17 @@ $\large \nabla f = \langle e^{y}+ 2xy, xe^{y}+2x \rangle$
 Let $\large f$ and $\large g$ be  differentiable scalar functions and $\large C$ be a scalar value
 
 Then,
-1. 
-	$$\large \nabla C = \langle 0,0,0,\text{ ... }, 0\rangle = \vec{0} \ne 0$$
-2. 
-	$$\large \nabla(f + g) = \nabla f + \nabla g$$
-3. 
-	$$\large \nabla(Cf) = C \nabla f$$
-4.  Product Rule
-	$$\large \nabla (fg) = g \nabla f + f \nabla g$$
-5.   Quotient Rule
-	$$\large \nabla \left(\frac{f}{g}\right)= \frac{g \nabla f - f \nabla g}{g^{2}}$$
-6.  Chain Rule
-	$$\large \nabla f^{n} = nf^{n-1} \nabla f$$
+
+1.	$$\large \nabla C = \langle 0,0,0,\text{ ... }, 0\rangle = \vec{0} \ne 0$$
+2.	$$\large \nabla(f + g) = \nabla f + \nabla g$$
+3. $$\large \nabla(Cf) = C \nabla f$$
+4. Product Rule$$\large \nabla (fg) = g \nabla f + f \nabla g$$
+5. Quotient Rule$$\large \nabla \left(\frac{f}{g}\right)= \frac{g \nabla f - f \nabla g}{g^{2}}$$
+6. Chain Rule$$\large \nabla f^{n} = nf^{n-1} \nabla f$$
 
 ### Important Property
-With [[Directional Derivatives]] the gradient can be used
-$$\large D_{\vec{u}}f(x_{0},y_{0}) = \nabla f(x_{0}, y_{0})\cdot \vec{u} = ||\nabla f(x_{0}, y_{0}||*||\vec{u}||cos \theta = ||\nabla f(x_{0}, y_{0}||cos \theta$$
+The gradient can be used to compute [[Directional Derivatives|directional derivatives]] with:
+$$\large D_{\vec{u}}f(x_{0},y_{0}) = \nabla f(x_{0}, y_{0})\cdot \vec{u}$$
 but we can also use a property of dot products to get
 $$\large D_{\vec{u}}f(x_{0}, y_{0})  = ||\nabla f(x_{0}, y_{0})||*||\vec{u}||cos \theta$$
 Also notice that the magnitude of a [[Unit Vector|unit vector]] is always 1 so

@@ -3,7 +3,8 @@ The equation of the plane that is tangent to the surface $\large z = f(x,y)$ con
 
 
 The equation of the plane tangent to the level surface $\large f(x,y,z) = C$  at a point $\large P_{0} = (x_{0}, y_{0}, z_{0})$ is$$\large f_{x}(P_{0})(x-x_{0}) + f_{y}(P_{0})(y-y_{0})+f_{z}(P_{0})(z-z_{0}) = 0$$
-or$$\large \nabla f(P_{0})\cdot \langle x-x_{0}, y-y_{0,}z-z_{0}\rangle$$
+or using the [[Gradient|gradient]]
+$$\large \nabla f(P_{0})\cdot \langle x-x_{0}, y-y_{0,}z-z_{0}\rangle$$
 
 
 ### Example 3
