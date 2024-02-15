@@ -8,7 +8,7 @@ Define $\large D(x,y) = f_{xx}(x,y)f_{yy}(x,y) - f^{2}_{xy}(x,y)$
 as the [[Vector Calculus/Discriminate|discriminate]] of $\large f(x,y)$
 
 1. If $\large D(P_{0})$ is positive and $\large f_{xx}(P_{0})$ or $\large f_{yy}(P_{0})$ is negative then $P_{0}$ is a local maximum with\ max value $\large = f(P_{0})$
-2. If $\large D(P_{0})$ is positive and $\large f_{xx}(P_{0})$ and $\large f_{yy}(P_{0})$ are positive then $\large P_{0}$ is a local minimum with min value $\large = f(P_{0})$
+2. If $\large D(P_{0})$ is positive and $\large f_{xx}(P_{0})$ or $\large f_{yy}(P_{0})$ are positive then $\large P_{0}$ is a local minimum with min value $\large = f(P_{0})$
 3. If $\large D(P_0)$ is negative then $P_{0}$ is a [[Saddle Point]]
 4. If $\large D(P_{0}) = 0$ then the test is inconclusive
 
