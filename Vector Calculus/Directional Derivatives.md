@@ -3,7 +3,7 @@ We want to measure the rate of change of $\large f(x,y)$ in <u>any</u> given dir
 
 To do this we use a [[Unit Vector|unit vector]] $\large \vec{u}$
 
-#### Def.
+### Def.
 
 Let $\large z = f(x,y)$ be a surface with $\large P_{0} = (x_{0}, y_{0}, z_{0})$ a point on the surface and $\vec{u} = <u_{1}, u_{2}>$ a unit vector
 
