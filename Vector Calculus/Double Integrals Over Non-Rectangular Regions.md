@@ -92,4 +92,84 @@ so we solve the integral
 
 $\large \int_{-1}^{2}\int_{x^{2}-2}^{x}1dydx = \int_{-1}^{2} x-(x^{2}-2)dx$
 
+If we instead choose to set up the integral as a horizontally simple region we will need to use two double integrals.
+
+We will measure the area above and below a horizontal line at -1 and add the two integrals.
+
+Since were flipping directions we need to solve the equations for $\large y$
+
+$\large y = x^{2} -2 \Leftrightarrow x = \sqrt{y+2}$
+
+$\large  y = x \Leftrightarrow x = y$
+
+This gives the two double integrals:
+
+$\large \int_{-2}^{-1} \int_{\sqrt{y+2}}^{-\sqrt{y+2}}1dx \text{ }dy$
+
+and
+
+$\large \int_{-1}^{2}\int_{y}^{\sqrt{y+2}} 1 dx \text{ }dy$
+
+# Sometimes you must pick a particular order
+
+Evaluate $\large \int_{0}^{4}\int_{\frac{x}{2}}^{2}e^{y^{2}}dydx$
+
+Notice that $\large e^{y^{2}}$ doesn't have an anti-derivative.
+
+This means we <u>HAVE</u> to switch the order of integration
+
+![[example-double-integral-need-to-swtich.png]]
+
+To switch this integration we need to write it in a way that works for $\large y$
+
+$\large y =\frac{x}{2} \Leftrightarrow x = 2y$
+
+So:
+
+$\large \int_{0}^{2}\int_{0}^{2y}e^{y^{2}}dx dy$
+
+$\large = \int_{0}^{2}(2ye^{y^{2}} -0)$
+
+Now its in a form where u-substitution will work and we get $\large e^{4}-1$
+
+### Finding Volume
+
+Find the volume of the pyramid bounded by the coordinate planes (the x-y, x-z, and y-z plane) and $\large 3x +6y +4z -12=0$
+
+![[coordinate-plane-pyramid.png]]
+
+$\large V = \int \int_{R} f(x,y) dA$
+
+To get our $\large f(x,y)$ solve the 4th plane for $\large z$
+
+$\large f(x,y) =  \frac{3}{4}(4-x-2y) = z$
+
+Notice that one of our bounds of integration is a line on the x-y coordinate plane.
+
+To find this we need to solve for $\large f(x,y) = 0$
+
+x-intercept $\large = (4,0,0)$
+
+y-intercept $\large= (0,2,0)$
+
+Now we just find the equation of the straight line that passes through this point.
+
+![[pyramid-ex-2.png]]
+
+The equation of this line is 
+$\large x+2y -12 = 0$
+$\large \Leftrightarrow y = -\frac{1}{2}x+2$
+$\large \Leftrightarrow x= 4-2y$
+
+Using this equation we can set up the region of integration.
+
+![[pyramid-ex-3.png]]
+
+So
+
+$\large V = \int_{0}^{4}\int_{0}^{2- \frac{x}{2}}f(x,y)dydx$
+
+or
+
+$\large V = \int_{0}^{2}\int_{0}^{4-2y}f(x,y)dxdy$
 
