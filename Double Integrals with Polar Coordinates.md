@@ -92,4 +92,86 @@ $\Large \int_{0}^{\frac{\pi}{2}}\int_{0}^{1}r^{2} r \text{ }drd \theta$
 
 ...
 
-$= \frac{\pi}{8}$
+$\large= \frac{\pi}{8}$
+
+##### What if:
+
+$\large \int_{0}^{1}\int_{\sqrt{1-x^{2}}}^{-\sqrt{1-x^{2}}} x^{2}+y^{2}dy dx$
+
+![[polor-cord-ex-3.png]]
+
+Then in polar coordinates it would be:
+
+$\large \int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}\int_{0}^{1} r^{2}*r drd \theta$
+
+##### Similarly:
+
+$\large \int_{-1}^{1} \int_{0}^{\sqrt{1-x^{2}}} x^{2}+y^{2}dydx$
+
+![[polar-coord-ex4.png]]
+
+$\Large \int_{0}^{\pi} \int_{0}^{1} r^{2}r dr d \theta$
+
+
+### Example 2
+
+Find the <u>area</u> of the region bounded above by
+
+$\large y=x$
+
+and below by the circle:
+
+$\large x^{2}+y^{2} -2y =0$
+
+Remember that the generic circle is:
+
+$\large (x-a)^{2} + (y-b)^{2} = r^{2}$
+
+Where (a,b) is the center of the circle. 
+
+So we have to complete the square to figure out how this circle will look.
+
+$\large x^{2} +y^{2} -2y +1 = 1$
+
+so
+
+$\large x^{2} +(y-1)^{2}= 1^{2}$
+
+![[polar-ex-5.png]]
+
+We are looking for the area of the little sliver below $\large y=x$
+
+Now we start converting everything to polar coordinates
+
+1. $\large x^{2} + y^{2} -2y =0$ becomes
+   $\large r^{2} -2r\sin \theta = 0 \rightarrow r = 2\sin \theta$
+
+2. $\large y=x$ becomes
+   $\large r\sin \theta = r\cos \theta \rightarrow \sin \theta = \cos \theta$
+   $\large \tan \theta = 1$
+   $\large \theta = \frac{\pi}{4}$
+	Basically just saying that $y=x$ is just a 45 deg line
+
+
+$\Large \int\int_{D*}r dr d \theta$
+
+$\Large \int_{0}^{\frac{\pi}{4}}\int_{0}^{2sin \theta} r dr \text{ }d \theta$
+
+Now we just solve the double integral as normal
+
+
+### Example 3
+
+Set up the integral for finding th area of the region inside the cardiod
+$\large r = 1+\cos \theta$
+and outside the circle:
+$\large r= 1$
+
+![[cardioid-ex.png]]
+
+
+$\Large \int\int_{D^{*}}r dr d \theta$
+
+$\Large \int_{- \frac{\pi}{2}}^{\frac{\pi}{2}}\int_{1}^{1+\cos \theta}r \text{ } dr \text{ } d \theta$
+
+$\Large =2\int_{0}^{\frac{\pi}{2}} \int_{1}^{1+\cos \theta} r \text{ } dr  \text{ } d \theta$
