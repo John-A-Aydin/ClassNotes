@@ -175,3 +175,73 @@ $\Large \int\int_{D^{*}}r dr d \theta$
 $\Large \int_{- \frac{\pi}{2}}^{\frac{\pi}{2}}\int_{1}^{1+\cos \theta}r \text{ } dr \text{ } d \theta$
 
 $\Large =2\int_{0}^{\frac{\pi}{2}} \int_{1}^{1+\cos \theta} r \text{ } dr  \text{ } d \theta$
+
+
+### Example 4
+
+Find the <u>area</u> of the [[Lemniscate|lemniscate]]  $\large r^{2} = 4 \cos 2 \theta$
+
+Notice that we want it in the form
+
+$\large r = f(\theta)$
+
+so
+
+$\large r = 2\sqrt{\cos 2  \theta}$
+
+![[lemniscate.png]]
+
+Notice that each petal are sandwiched between the lines
+
+$\large y=x$
+and
+$\large y = -x$
+
+$\large A = \int \int_{R}r dr d \theta$
+
+To integrate this it will be easiest to take advantage of the symmetry of this shape.
+
+We can take the area of the shape in one quadrant and quadruple it.
+
+$\Large 4 \int_{0}^{\frac{\pi}{4}} \int_{0}^{2\sqrt{\cos 2 \theta}}r \text{ }dr \text{ }d \theta$
+
+$\large = 2 \int_{0}^{\frac{\pi}{4}} 4 \cos(2 \theta) d \theta$
+
+$\large = 4 \sin(2 \theta) \Big|_{0}^{\frac{\pi}{4}}$
+
+$\large = 4$
+
+
+### Example 5
+
+Show that
+
+$\Large \int_{-\infty}^{\infty} e^{-x^{2}} dx = \sqrt{\pi}$
+
+This integral is the Normal / Gaussian Distribution
+
+Let the integral be $\large I$
+
+Then
+
+$\large I^{2} = \int_{-\infty}^{\infty}\int_{-\infty}^{\infty} e^{-x^{2}-y^{2}}dx dy$
+
+$\large = \int_{-\infty}^{\infty}\int_{-\infty}^{\infty} e^{-(x^{2}+y^{2})}dx dy$
+
+Now we can switch this integral to polar form
+
+$\large \int_{0}^{2\pi}\int_{0}^{\infty}r e^{-r^{2}}drd \theta$ 
+
+Now this is in a form where we can use u substitution
+
+$\large = - \frac{1}{2} \int_{0}^{2 \pi} e^{-r^{2}} \Big|_{0}^{\infty} d \theta$
+
+$\large = \frac{1}{2} \int_{0}^{2 \pi} 1 d \theta$
+
+$\large = \pi$
+
+So 
+
+$\large I = \sqrt{\pi}$
+
+
