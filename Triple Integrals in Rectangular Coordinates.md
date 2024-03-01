@@ -30,3 +30,13 @@ This means we now have 6 possible orders of integration which makes it harder to
 ##### Example
 
 $\large \int \int \int_{B} x^{2}yz \text{ }dV$
+
+where:
+
+$\large B = \{(x,y,z) : 1\le x\le 2, 0\le y\le 1, 0\le z \le2\}$
+
+All we have to do is pick and order. (it doesn't matter here)
+
+$\large \int_{0}^{2}\int_{0}^{1}\int_{0}^{2} x^{2}yz \text{ }dx \text{ }dy \text{ }dz$
+
+This integral is just a more tedious version of a normal integral
