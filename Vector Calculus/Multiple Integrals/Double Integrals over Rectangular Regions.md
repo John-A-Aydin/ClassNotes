@@ -13,9 +13,7 @@ $\large \int \int_{R} f(x,y) dA = \int \int f(x,y) dxdy = \int \int f(x,y) dydx$
 Notice that 
 
 $\large [a,b]$ corresponds to our $\large x$ values (bounds of integration for $\large dx$)
-
 and
-
 $\large [c,d]$ corresponds to our $\large y$ values (bounds of integration for $\large dy$)
 
 so
@@ -28,7 +26,6 @@ $\large \int_{a}^{b} \left(\int_{c}^{d} f(x,y) dy\right)dx = \int_{c}^{d} \left(
 ### Fubin's Theorem
 
 If $\large f(x,y)$ is continuous on the rectangle
-
 $\large R = [a,b]\times[c,d] = \{(x,y): a\le x\le b \land c\le y\le d\}$
 
 then $\large \int \int_{R} f(x,y)dA = \int_{a}^{b}\int_{c}^{d}f(x,y)dydx = \int_{c}^{d}\int_{a}^{b}f(x,y)dxdy$

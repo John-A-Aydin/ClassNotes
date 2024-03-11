@@ -36,6 +36,22 @@ $\large \vec{v} = <2,5>$,   $\large ||\vec{v}|| = \sqrt{2^{2}+5^{2}} = \sqrt{29}
 
 ### [[Unit Vector]]
 
+### IDEK
 
+Let $\large \vec{u} = \langle u_{1}, u_{2}, u_{3}\rangle$ and $\large \vec{v} = \langle v_{1},v_{2}, v_{3}\rangle$
 
+Then $\large \vec{u} \times \vec{v}$ is given by the determinant of the following matrix
 
+| i     | j     | k     |
+| ----- | ----- | ----- |
+| $u_1$ | $u_2$ | $u_3$ |
+| $v_1$ | $v_2$ | $v_3$ |
+
+This problem can be broken up into smaller determinants
+
+$\large <mat> \hat{i} - <mat> \hat{j}+ <mat>\hat{k}$ 
+
+#### Theorem
+
+If $\large \vec{u} \text{ and } \vec{v}$ are nonzero vectors that are not multiples of each other, 
+then $\large \vec{u} \times \vec{v}$  is orthogonal to both $\large \vec{u} \text{ and } \vec{v}$

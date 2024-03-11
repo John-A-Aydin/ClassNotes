@@ -99,15 +99,12 @@ We will measure the area above and below a horizontal line at -1 and add the two
 Since were flipping directions we need to solve the equations for $\large y$
 
 $\large y = x^{2} -2 \Leftrightarrow x = \sqrt{y+2}$
-
 $\large  y = x \Leftrightarrow x = y$
 
 This gives the two double integrals:
 
 $\large \int_{-2}^{-1} \int_{\sqrt{y+2}}^{-\sqrt{y+2}}1dx \text{ }dy$
-
 and
-
 $\large \int_{-1}^{2}\int_{y}^{\sqrt{y+2}} 1 dx \text{ }dy$
 
 # Sometimes you must pick a particular order
@@ -149,7 +146,6 @@ Notice that one of our bounds of integration is a line on the x-y coordinate pla
 To find this we need to solve for $\large f(x,y) = 0$
 
 x-intercept $\large = (4,0,0)$
-
 y-intercept $\large= (0,2,0)$
 
 Now we just find the equation of the straight line that passes through this point.
@@ -168,8 +164,6 @@ Using this equation we can set up the region of integration.
 So
 
 $\large V = \int_{0}^{4}\int_{0}^{2- \frac{x}{2}}f(x,y)dydx$
-
 or
-
 $\large V = \int_{0}^{2}\int_{0}^{4-2y}f(x,y)dxdy$
 

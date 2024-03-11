@@ -71,3 +71,49 @@ $\large -\sqrt{2} \le y \le  \sqrt{2}$
 So the final integral that we need to compute is:
 
 $$\large \int_{-\sqrt{2}}^{\sqrt{2}} \int_{-\sqrt{4-2y^{2}}}^{\sqrt{4-2y^{2}}}\int_{x^{2} +3y^{2}}^{8-x^{2}-y^{2}} 1 \text{ }dz \text{ }dx \text{ }dy = 8 \pi \sqrt{2}$$
+### Example 3*
+
+Find the volume of the pyramid (tetrahedron) $\large D$ with vertices at
+$\large (0,0,0)$
+$\large (0,1,0)$
+$\large (1,1,0)$
+$\large (0,1,1)$
+
+![[pyramid-ex3.png]]
+
+Since $\large D$ is a pyramid, its faces are [[Planes|planes]]
+and we can find the equations of these planes because we have three points for each one
+
+back face: $\large x=0$
+bottom face: $\large z=0$
+right face: $\large y=1$
+
+left face: 
+plane that contains
+$\large (0,0,0)$
+$\large (0,1,1)$
+$\large (1,1,0)$
+
+$\large x-y+z = 0$
+See the example in [[Planes]] for work
+
+$\large \text{Volume} = \int\int \int_{D}1 \; dV$
+
+#### 1. Integrate z first
+
+The projection $\large D_{xy}$ is in the x-y plane
+
+![[pyramid-ex3-projection.png]]
+
+This triangle is bounded by the equations
+$\large y=1$
+$\large x=0$
+$\large y=x$
+
+This gives two possible orders of integration
+
+$\large \int_{0}^{1}\int_{x}^{1}\int_{0}^{y-x} 1 \; d z \; d y \: d x$
+
+and
+
+
