@@ -4,7 +4,7 @@
 Technique for solving ==constrained== optimization problems (finding [[Extrema|extrema]]).
 - maximize or minimize $\large f(x,y)$ subject to $\large g(x,y) = C$
 - $\large f(x,y)$ is called the "objective function"
-- $\large g(x,y) + C$  is called the "constraint"
+- $\large g(x,y) = C$  is called the "constraint"
 
 Notice that the constraint is a [[Level Curve|level curve]]
 
