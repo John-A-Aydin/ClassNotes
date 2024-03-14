@@ -111,9 +111,36 @@ $\large x=0$
 $\large y=x$
 
 This gives two possible orders of integration
-
-$\large \int_{0}^{1}\int_{x}^{1}\int_{0}^{y-x} 1 \; d z \; d y \: d x$
-
+$$\large \int_{0}^{1}\int_{x}^{1}\int_{0}^{y-x} 1 \; d z \; d y \: d x\tag{1}$$
 and
+$$\large \int_{0}^{1}\int_{0}^{x}\int_{0}^{y-x} 1 \; d z \; d x \: d y\tag{2}$$
 
+#### 2. Integrate x first
+
+The projection $\large D_{yz}$ is in the y-z plane
+
+![[x-first-pyramid-ex.png]]
+
+This projection is bounded by  the lines:
+$\large y = 1$
+$\large z = 0$
+$\large y=z \Leftrightarrow z=y$
+This gives us another two orders
+$$\large \int_{0}^{1}\int_{z}^{1}\int_{0}^{y-z} 1 \; d x \; d y \: d z \tag{3}$$
+and 
+$$\large \int_{0}^{1}\int_{0}^{y}\int_{0}^{y-z} 1 \; d x \; d z \: d y \tag{4}$$
+#### 3. Integrate y first
+
+The projection $\large D_{xz}$ is in the x-z plane
+
+![[y-first-pyramid-ex.png]]
+
+From this projection we see that the shape is bounded by the lines
+$\large x= 0$
+$\large z= 0$
+$\large z = 1-x \Leftrightarrow x = 1-z$
+
+$$\large \int_{0}^{1}\int_{0}^{1-z}\int_{x+z}^{1} 1 \; d y \; d x \: d z \tag{5}$$
+and
+$$\large \int_{0}^{1}\int_{0}^{1-x}\int_{x+z}^{1} 1 \; d y \; d z \: d x\tag{6}$$
 
