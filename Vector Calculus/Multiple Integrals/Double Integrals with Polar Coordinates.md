@@ -153,7 +153,7 @@ Now we start converting everything to polar coordinates
 	Basically just saying that $y=x$ is just a 45 deg line
 
 
-$\Large \int\int_{D*}r dr d \theta$
+$\Large \int\int_{D^{*}}r dr d \theta$
 
 $\Large \int_{0}^{\frac{\pi}{4}}\int_{0}^{2sin \theta} r dr \text{ }d \theta$
 

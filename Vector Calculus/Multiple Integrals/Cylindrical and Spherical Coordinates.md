@@ -3,11 +3,10 @@
 # Cylindrical Coordinates
 
 Polar coordinates with $\large z$ tacked on.
-
 Any given point $\large ( x , y , z )$ has a point directly below it on the x-y plane at $\large ( x , y , 0 )$
 
-$\large x \Leftrightarrow r \cos\left(\theta\right)$
-$\large y \Leftrightarrow r \sin\left(\theta\right)$
+$\large x \Rightarrow r \cos\left(\theta\right)$
+$\large y \Rightarrow r \sin\left(\theta\right)$
 $\large z \Leftrightarrow z$
 
 so
