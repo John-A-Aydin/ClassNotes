@@ -4,7 +4,7 @@ If the region of integration is part of a circle, standard (Cartesian) coordinat
 
 ### Polar Rectangles
 
-In [[Polar Coordinates|polar coordinates]] we divide the region into "polar rectangles"
+In [[Vector Calculus/Definitions/Polar Coordinates|polar coordinates]] we divide the region into "polar rectangles"
 
 $\large R = \{(r,\theta) : a\le r\le b, \alpha \le \theta\le \beta\}$
 
