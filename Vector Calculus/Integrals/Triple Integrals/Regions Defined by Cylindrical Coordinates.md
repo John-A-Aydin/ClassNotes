@@ -6,7 +6,7 @@ Any given point $\large ( x , y , z )$ has a point directly below it on the x-y 
 $\large x \Rightarrow r \cos\left(\theta\right)$
 $\large y \Rightarrow r \sin\left(\theta\right)$
 $\large z \Leftrightarrow z$
-
+$\large dz\;dy\;dx \Rightarrow r\;dz\;dr\;d \theta$
 so
 
 $\large f(x,y,z) \Rightarrow f ( r \cos\left(\theta\right) , r\sin\left(\theta\right) , z ) = F(r, \theta, z)$

@@ -7,7 +7,7 @@ There are two ways to find the eqn of a plane
 
 # Finding the equation with a point and normal vector
 
-The equation of the plane with normal vector $\large \vec{N} = \langle1,-1,1\rangle$ containing $\large P = (0,0,0)$ is found by connecting any arbitrary pint on the plane $\large (x,y,z)$ to $\large P$
+The equation of the plane with normal vector $\large \vec{N} = \langle1,-1,1\rangle$ containing $\large P = (0,0,0)$ is found by connecting any arbitrary point on the plane $\large (x,y,z)$ to $\large P$
 $$\large \langle x,y,z \rangle$$
 The normal vector $\large \vec{N}$ is orthogonal to this vector
 $$\large \vec{N} * \langle x,y,x \rangle = 0$$

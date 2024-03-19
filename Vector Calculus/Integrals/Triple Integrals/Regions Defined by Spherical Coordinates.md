@@ -2,9 +2,10 @@
 
 Spherical coordinates are in the form
 $$\large P = ( \rho , \phi , \theta )$$
-where $\large \theta$ is the angle on the x-y plane from the x-axis,
+where: 
 $\large \rho$ is the distance from the origin to the point,
-$\large \phi$ is the angle from the positive z-axis to the line segment connecting the origin and $\large P$
+$\large \phi$ is the angle from the positive z-axis to the line segment connecting the origin and $\large P$,
+$\large \theta$ is the angle on the x-y plane from the x-axis
 
 ![[Regions Defined by Spherical Coordinates.png]]
 

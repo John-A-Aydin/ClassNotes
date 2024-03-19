@@ -1,0 +1,1 @@
+$$\large \int u \; dv = uv - \int v\; du$$
