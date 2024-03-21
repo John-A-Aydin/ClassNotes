@@ -17,7 +17,7 @@
 2. The program's runtime [[Stack]] is allocated
 	- A process' stack stores the local variables of the program 
 	- Initialize the stack with arguments argc and the argv array of main() function
-3. The program's [[Heap]] is created
+3. The program's [[Operating Systems/Heap]] is created
 	 - Used for explicitly requested dynamically allocated data
 	 - Program request such space by calling malloc() and free it by calling free()
 4. The OS does some other initialization tasks.
