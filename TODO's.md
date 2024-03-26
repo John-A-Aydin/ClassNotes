@@ -3,3 +3,5 @@
 - [ ] look up lagrange
 - [ ] look up csce 355
 - [ ] look up optimization class
+- [ ] look up parametric equations
+- [ ] Watch proof of why sample mean is the best estimator for normal population

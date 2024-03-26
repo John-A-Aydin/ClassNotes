@@ -1,5 +1,5 @@
 ## $$ P \land (P \rightarrow Q) \rightarrow Q $$
-The above statement is a [[Tautology]]
+The above statement is a [[Tautology|tautology]]
 
 #### Truth Table
 | P | Q | P -> Q | P & ( P -> Q ) | P & ( P -> Q ) -> Q|

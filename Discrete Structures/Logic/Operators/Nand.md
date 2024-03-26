@@ -1,7 +1,6 @@
 #LogicalOperator 
 # $$ P | Q$$
 - Non-associative operation
-- 
 ### Truth Table
 | P | Q | P \| Q |
 |---|--|---|

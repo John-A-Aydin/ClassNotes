@@ -11,6 +11,6 @@ $$P_S= 1-\frac{(365)(364)(363)...(365-10+1)}{(365)(365)(365)...(365)}$$
 
 ##### Number of ways you can pick n distinct objects k times without replacement
 When the order matters:
-##### $$nP_k= \frac{n!}{(n-k)!}$$
+$$\large nP_k= \frac{n!}{(n-k)!}$$
 When order doesn't matter:
-##### $$nP_k = \frac{n!}{k!(n-k)!}= (_{k}^{n})$$
+$$\large nP_k = \frac{n!}{k!(n-k)!}= (_{k}^{n})$$
