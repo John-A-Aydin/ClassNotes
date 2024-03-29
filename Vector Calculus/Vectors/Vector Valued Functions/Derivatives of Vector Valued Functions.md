@@ -12,3 +12,4 @@ $\large \vec{r}'(t)$ is the [[Tangent and Normal Vectors of VVF|tangent vector]]
 
 A good interpretation of this is looking at $\large \vec{r}(t)$ as the position, and $\large \vec{r}'(t)$ as the velocity
 
+For computing these derivatives see [[Derivative Rules for Vector Valued Functions]].

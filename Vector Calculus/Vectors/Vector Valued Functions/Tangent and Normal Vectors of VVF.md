@@ -1,5 +1,4 @@
-
-
+==**13**==
 ### Unit Tangent Vector
 If $\large \vec{r}(t) = \langle x(t), y(t), z(t) \rangle$ represents the psition of an object, then 
 $\large \vec{r}'(t) = \langle x', y', z' \rangle$ represents the velocity

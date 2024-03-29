@@ -4,7 +4,7 @@ Let $\large \vec{F}(t) = \langle f(t), g(t), h(t) \rangle$  where f, g, h are co
 
 $$\large \lim_{t\rightarrow c} \vec{F}(t) = \langle \lim f(t), \lim g(t), \lim h(t) \rangle$$
 
-### Derivatives
+### [[Derivatives of Vector Valued Functions|Derivatives]]
 $$\large \vec{F}'(t) = \langle f'(t), g'(t) , h'(t) \rangle$$
 
 ### Indefinite Integrals
