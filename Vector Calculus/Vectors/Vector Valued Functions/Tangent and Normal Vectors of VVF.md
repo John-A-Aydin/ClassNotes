@@ -17,7 +17,7 @@ $\large \vec{N}(t)$ points in the direction the object is turning
 ### Example 1
 
 Find the unit tangent vector and principle unit normal vectors of the path
-$\large \vec{r}(t)  \langle \cos(t), \sin(t), t \rangle$
+$\large \vec{r}(t) =  \langle \cos(t), \sin(t), t \rangle$
 
 $\large \vec{r}'(t) = \langle - \sin(t), \cos(t) , 1\rangle$
 $\large ||\vec{r}'(t)|| = \sqrt{(-\sin(t))^{2} + \cos^{2}(t) + 1^{2})} = \sqrt{2}$
