@@ -1,0 +1,1 @@
+Hash table where each bucket is a linked list containing all values that match hash 
