@@ -58,7 +58,7 @@ Suppose that the force acting upon a particle at a given point $\large ( x , y ,
 $$\large \vec{F}(x,y,z) = \langle M(x,y,z), N(x,y,z), P(x,y,z) \rangle$$
 We wish to calculate the work done by $\large \vec{F}(x,y,z)$ to move the particle along a given path $\large C$
 
-Let $\large \vec{r}(t) = \langle x(t), y(t), z(t) \rangle$ be the position of a point $\large Q$ on the curve $\large C$. Recall l that $\large \vec{T}$ is the [[Tangent and Normal Vectors of VVF|unit tangent vector]]. The work done by $\large \vec{F}$ to move $\large Q$ a start distance $\large \Delta S$ along $\large C$ is
+Let $\large \vec{r}(t) = \langle x(t), y(t), z(t) \rangle$ be the position of a point $\large Q$ on the curve $\large C$. Recall l that $\large \vec{T}$ is the [[Unit Tangent Vector of VVF|unit tangent vector]]. The work done by $\large \vec{F}$ to move $\large Q$ a start distance $\large \Delta S$ along $\large C$ is
 $$\large \Delta W = \vec{F}(\vec{T}\Delta S) = \text{(force)(distance)}$$
 so in total, to move from the starting point of $\large C$ to the stopping point of $\large C$ we get
 $$\large W = \int_{C}\vec{F} \vec{T} \; d S \tag{0}$$

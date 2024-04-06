@@ -8,7 +8,7 @@ $\large \vec{r}(t) = \langle x(t), y(t) \rangle$ ,  $\large a \le t \le b$
 What is the derivative of $\large \vec{r}(t)$ ?
 $\large \vec{r}'(t) = \langle x'(t), y'(t) \rangle$
 so
-$\large \vec{r}'(t)$ is the [[Tangent and Normal Vectors of VVF|tangent vector]] to the curve $\large C$ at any given point.
+$\large \vec{r}'(t)$ is the [[Unit Tangent Vector of VVF|tangent vector]] to the curve $\large C$ at any given point.
 
 A good interpretation of this is looking at $\large \vec{r}(t)$ as the position, and $\large \vec{r}'(t)$ as the velocity
 

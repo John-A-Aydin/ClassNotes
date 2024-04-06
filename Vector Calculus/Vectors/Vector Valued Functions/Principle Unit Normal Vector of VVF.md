@@ -1,20 +1,8 @@
-==**13**==
-### Unit Tangent Vector
-If $\large \vec{r}(t) = \langle x(t), y(t), z(t) \rangle$ represents the position of an object, then 
-$\large \vec{r}'(t) = \langle x', y', z' \rangle$ represents the velocity
-
-The unit tangent vector $\large \vec{T}(t)$ to a smooth curve C is:
-$$\large \vec{T}(t) = \frac{\vec{r}'(t)}{||\vec{r}'(t)||}$$
-
-$\large \vec{T}(t)$ is the direction of motion
-
-### Principle Unit Normal Vector
-
-The principle unit normal vector is calculated with the [[Tangent and Normal Vectors of VVF|unit tangent vector]]
+The principle unit normal vector is calculated with the [[Unit Tangent Vector of VVF|unit tangent vector]] of the [[Vector-Valued Function|vector-valued function]]
 $$\large \vec{N}(t) = \frac{\vec{T}'(t)}{||\vec{T}'(t)||}$$
 $\large \vec{N}(t)$ points in the direction the object is turning
 
-### Example 1
+### Example
 
 Find the unit tangent vector and principle unit normal vectors of the path
 $\large \vec{r}(t) =  \langle \cos(t), \sin(t), t \rangle$

@@ -34,20 +34,6 @@ $$\large \text{det}\begin{bmatrix} u_{2} & u_{3}  \\ v_{2} & v_{3}   \end{bmatri
 
 If $\large \vec{u} \text{ and } \vec{v}$ are nonzero vectors that are not multiples of each other, 
 then $\large \vec{u} \times \vec{v}$  is orthogonal to both $\large \vec{u} \text{ and } \vec{v}$
-# Magnitude
-
-The magnitude / norm of a vector is its length.
-
-$\Large ||\vec{v}|| = \text{ magnitude } = \text{ scalar}$
-
-If $\vec{v} = <v_{1}, v_{2}, \text{ ... }, v_{n}$ then
-
-$\large ||\vec{v}|| = \sqrt{v_{1}^{2} + v_{2}^{2} + \text{ ... } + v_{n}^{2}} = \sqrt{\sum\limits^{n}_{i=1}v^{2}_{i}}$
-
-### Example
-$\large \vec{v} = <2,5>$,   $\large ||\vec{v}|| = \sqrt{2^{2}+5^{2}} = \sqrt{29}$
 
 ### [[Unit Vector]]
 
-
-$$

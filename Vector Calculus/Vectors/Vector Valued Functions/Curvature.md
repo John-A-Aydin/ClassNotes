@@ -3,7 +3,7 @@
 Let $\large C$ be a curve defined by
 $\large \vec{r}(t) = \langle x(t), y(t), z(t) \rangle$,   $\large a \le t \le b$
 
-We know that the [[Derivatives of Vector Valued Functions|derivative]] of $\large \vec{r}(t)$  shows us the direction of the curve and the [[Tangent and Normal Vectors of VVF|unit tangent vector]] of $\large \vec{r}'(t)$,  $\large \vec{T}'(t)$,  shows //IDK//
+We know that the [[Derivatives of Vector Valued Functions|derivative]] of $\large \vec{r}(t)$  shows us the direction of the curve and the [[Unit Tangent Vector of VVF|unit tangent vector]] of $\large \vec{r}'(t)$,  $\large \vec{T}'(t)$,  shows //IDK//
 
 Define the scalar function $\large \kappa(t)$ to measure the curvature of $\large C$ at any point along this trajectory.
 
