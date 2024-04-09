@@ -25,7 +25,9 @@ $\large dy$: The change in y from one side to the other
 $\large dS$, $\large dx \text{ , } dy$ form a right triangle so:
 $\large dS = \sqrt{(dx)^{2}+(dy)^{2}}$
 
+$\large f(x,y) \Rightarrow f(x(t), y(t))$
 $\large dS = \sqrt{(\frac{dx}{dt})^{2} + (\frac{dy}{dt})^{2}}\;dt \Rightarrow dS = ||\vec{r}'(t)||dt$
+
 
 $$\Large \int_{C} f(x,y) \; d S = \int_{a}^{b} f(x(t), y(t)) \; \sqrt{[x'(t)]^{2} + [y'(t)]^{2}}\; dt$$
 
