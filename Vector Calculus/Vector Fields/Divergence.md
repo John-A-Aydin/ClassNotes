@@ -16,3 +16,11 @@ and towards $\large p$ if
 $\large \text{div}\vec{F}(p) \lt 0$  ($\large p$ is a <u>sink</u>)
 
 If $\large \text{div}\vec{F}(p) = 0$, then the fluid is <u>incompressible</u> at $\large p$
+
+# Examples
+
+### Example 1
+Find the divergence of $\large \vec{F}$ where:
+$$\large \vec{F}(x,y,z) = \langle x^{2}yz, 3xyz^{3}, x^{2}-z^{2} \rangle$$
+$$\large \text{div}\vec{F} = \frac{\partial }{\partial x}(x^{2}yz) + \frac{\partial }{\partial y}(3xy^{3}) + \frac{\partial }{\partial z}(x^{2}-z^{2})$$
+$$\large \text{div}\vec{F} = 2xyz+ 3xz^{3}+ -2z$$
