@@ -38,7 +38,15 @@ Let $\large -C$ be $\large C$, but traversed in the opposite direction.
 $$\large \int_{-C} f(x,y) \; d S = - \int_{C} f(x,y) \; d S \tag{2}$$
 Let $\large C$ be a curve that is composed of several components $\large C_{1} \text{, } C_{2}\text{, }C_{3}\text{ ... } C_{n}$ 
 $$\large \int_{C} f(x,y) \; d S = \sum\limits_{1}^{n}\int_{C_{n}} f(x,y) \; d S \tag{3}$$
+# Line Integral of a Vector Field
 
+Finding the integral of $\large \vec{F}$ where:
+$$\large \vec{F}(x,y,z) = \big \langle M(x,y,z), N(x,y,z), P(x,y,z) \big \rangle$$
+over a curve $\large C$ where:
+$$\large C: \vec{r}(t) = \big \langle x(t), y(t), z(t) \big \rangle \text{, } a \le t \le b$$
+gives
+$$\large \int_{a}^{b} \vec{F}(\vec{r}) \cdot \vec{r}'  \; d t$$
+$$\large \int_{a}^{b} M \Big(x(t), y(t), z(t)\Big)x'(t) + N \Big(x(t), y(t), z(t)\Big)y'(t) + P \Big(x(t), y(t), z(t)\Big)z'(t) \; d t$$
 
 
 
