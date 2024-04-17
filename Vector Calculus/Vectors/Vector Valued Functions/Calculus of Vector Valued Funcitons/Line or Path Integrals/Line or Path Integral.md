@@ -38,6 +38,8 @@ Let $\large -C$ be $\large C$, but traversed in the opposite direction.
 $$\large \int_{-C} f(x,y) \; d S = - \int_{C} f(x,y) \; d S \tag{2}$$
 Let $\large C$ be a curve that is composed of several components $\large C_{1} \text{, } C_{2}\text{, }C_{3}\text{ ... } C_{n}$ 
 $$\large \int_{C} f(x,y) \; d S = \sum\limits_{1}^{n}\int_{C_{n}} f(x,y) \; d S \tag{3}$$
+
+
 # Line Integral of a Vector Field
 
 Finding the integral of $\large \vec{F}$ where:
@@ -147,7 +149,7 @@ by the [[The Fundamental Theorem of Line Integrals|fundamental theorem of line i
 
 A vector field $\large \vec{F}$ is <u>conservative</u> if
 $$\large \vec{F} = \nabla f$$
-for some scalar function $\large f$, called the <u>scalar potential</u> of $\large \vec{F}$
+for some scalar function $\large f$, called the [[Scalar Potential|scalar potential]] of $\large \vec{F}$
 
 $\Large \int_{C} \vec{F} \cdot d \vec{r}$ 
 is independent of path iff $\large \vec{F}$ is conservative
