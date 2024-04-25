@@ -1,4 +1,3 @@
-- [ ] listen to ch11 business writing video
 - [ ] Fill in point  notes for vec [[Extrema]]
 - [ ] look up lagrange
 - [ ] look up csce 355
