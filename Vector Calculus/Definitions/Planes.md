@@ -35,4 +35,6 @@ This can be found with the [[Determinant|determinant]]
 
 $\large \vec{N} = \langle1,-1,1\rangle$
 
+If 
+$$$$
 
