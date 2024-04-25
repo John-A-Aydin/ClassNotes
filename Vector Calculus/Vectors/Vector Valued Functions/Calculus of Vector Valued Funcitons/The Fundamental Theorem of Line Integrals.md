@@ -6,4 +6,4 @@ If the scalar function $\large f$ is differentiable, then
 $$\large \int_{C} \nabla f \cdot d \vec{r} = f(b) - f(a)$$
 We can think of the [[Gradient|gradient]] of $\large f$ as a derivative that cancels out the [[Line or Path Integral|path integral]].
 
-If $\large \vec{F}$ satisfies $\large \nabla f =$
+If $\large \vec{F}$ satisfies $\large \nabla f = \vec{F}$

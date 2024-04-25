@@ -18,7 +18,8 @@ Area of P = $\large ||\vec{w} \times \vec{v}||$
 ### [[Curvature]]
 - Formula will be given
 ### [[Line or Path Integral]]
-- Remember to add the magnitude term
+- Remember to add the magnitude term for functions
+- Remember to add the derivative term for vector fields
 
 ### [[The Fundamental Theorem of Line Integrals]] 100%
 - Finding the scalar potential of $\large \vec{F}$

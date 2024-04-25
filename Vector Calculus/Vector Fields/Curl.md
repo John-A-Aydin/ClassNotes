@@ -17,3 +17,8 @@ Find the curl of $\large \vec{F}$ where:
 $\large \vec{F}(x,y,z) = \langle x^{2}yz, 3xyz^{3}, x^{2}-z^{2} \rangle$
 $$\large \text{curl}\vec{F}= \nabla \times \vec{F} = \text{det}\begin{bmatrix} \hat{i}  & \hat{j} & \hat{k}  \\ \frac{\partial}{\partial x} & \frac{\partial }{\partial y} & \frac{\partial }{\partial z}  \\ x^{2}yz & 3xyz^{3} & x^{2}-z^{2} & \end{bmatrix}$$
 $$\large \text{curl}\vec{F} = \langle -9xyz^{2}, - (2x-x^{2}y), 3yz^{3}-x^{2}z \rangle$$
+### Example 2
+
+Find the curl of $\large \nabla f$
+$$ \large = \nabla \times (\nabla f) = \vec{0}$$
+$
