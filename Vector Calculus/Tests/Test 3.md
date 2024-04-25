@@ -5,7 +5,7 @@ VVF
 Unit tangent vecs
 Principle unit normal
 
-### [[Cross Product (more info)]] and dot product
+### [[Cross Product]] and dot product
 - geometric interpretation
 	- The vector produced orthogonal
 - How to fund area of parallelogram made by two vectors
@@ -34,7 +34,7 @@ only 2d vector fields
 
 ### [[Divergence]] and [[Curl]]
 - Formulas will be given but remember what $\large \nabla$ means
-- [[Cross Product (more info)]]
+- [[Cross Product]]
 - [[Determinant]]
 
 ### Verify $\large \vec{F}$ is conservative and find scalar potential

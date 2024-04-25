@@ -148,7 +148,7 @@ by the [[The Fundamental Theorem of Line Integrals|fundamental theorem of line i
 A vector field $\large \vec{F}$ is <u>conservative</u> if
 $$\large \vec{F} = \nabla f$$
 for some scalar function $\large f$, called the <u>scalar potential</u> of $\large \vec{F}$
-
+ 
 $\Large \int_{C} \vec{F} \cdot d \vec{r}$ 
 is independent of path iff $\large \vec{F}$ is conservative
 

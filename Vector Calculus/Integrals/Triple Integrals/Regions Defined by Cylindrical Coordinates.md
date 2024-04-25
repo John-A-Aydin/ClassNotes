@@ -36,7 +36,7 @@ $\large z = 4 -x^{2}-y^{2} \Leftrightarrow z = 4-r^{2}$
 
 The projection on the x-y or $\large \theta$-r plane is a semi circle
 
-$$\large \int_{0}^{\frac{\pi}{2}}\int_{0}^{2 \cos\left(\theta\right)}\int_{0}^{4-r^{2}} 1 \; d z \; d r \: d \theta$$
+$$\large \int_{0}^{\frac{\pi}{2}}\int_{0}^{2 \cos\left(\theta\right)}\int_{0}^{4-r^{2}} r\; d z \; d r \: d \theta$$
 
 ### Example 2
 

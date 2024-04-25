@@ -7,7 +7,7 @@ To do this we use a [[Unit Vector|unit vector]] $\large \vec{u}$
 
 Let $\large z = f(x,y)$ be a surface with $\large P_{0} = (x_{0}, y_{0}, z_{0})$ a point on the surface and $\vec{u} = <u_{1}, u_{2}>$ a unit vector
 
-The the directional derivative of $\large f$ in the direction $\vec{u}$at any  point is given by
+The the directional derivative of $\large f$ in the direction $\vec{u}$ at any  point is given by
 $$\large D_{\vec{u}}f(x,y) = lim_{h\to 0}\frac{f(x+hu_{1}, y+hu_{2})-f(x,y)}{h}$$ At a given point $\large (x_{0}, y_{0})$,
 $$\large D_{\vec{u}}f(x_{0},y_{0}) = lim_{h\to 0}\frac{f(x_{0}+hu_{1}, y_{0}+hu_{2})-f(x_{0},y_{0})}{h}$$
 This is really just a generalization of $\large f_{x}$ and $\large f_{y}$

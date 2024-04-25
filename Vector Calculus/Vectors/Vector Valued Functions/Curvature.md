@@ -23,7 +23,7 @@ at any point and at $\large t = 0$
 
 Using Eqn (2)
 
-We only need to deal with finding the derivatives of $\large \vec{r}(t)$ and their [[Cross Product (more info)|cross product]].
+We only need to deal with finding the derivatives of $\large \vec{r}(t)$ and their [[Cross Product|cross product]].
 This method reduces the amount of magnitudes we need to calculate
 
 $\large \vec{r}'(t) = \langle 1, 2t, 3t^{2} \rangle$
