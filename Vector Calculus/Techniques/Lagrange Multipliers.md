@@ -93,7 +93,7 @@ We know that $\large \nabla C(x,y,z) = \lambda \nabla V(x,y,z)$
 
 So we get the system of equations:
 
-(1)  $\large 3y +2z = \lambda yz$
+(1) $\large 3y +2z = \lambda yz$
 
 (2)  $\large 3x+2z = \lambda xz$
 

@@ -36,9 +36,7 @@ Final answer should be expressed in terms of the variables at the bottom of the 
 make sure the direction vector is a unit vector
 
 2 ways this could be asked
-
 1. Find the directional derivative of $\large f(x,y)$ in some direction
-
 2. Find the value of the directional derivative at a point $\large P_{0}$
 
 ANSWER WILL BE SCALAR
@@ -64,7 +62,7 @@ This will be a word problem
 
 1. $\large z=f(x,y)$
 2. $\large f(x,y,z) = C$
-
+$\large f_{x}(P_{0})(x-x_{0})$ 
 Only bother to remember the equation for $\large f(x,y,z)$
 
 # 14.7 (Local Extrema)

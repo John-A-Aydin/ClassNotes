@@ -12,6 +12,8 @@ No double integrals over rectangles or triple integrals over box's
 $\large (x-a)^{2} + (y-b)^{2} = r^{2}$
 $\large y = \sqrt{16-x^{2}}$   or   $\large y = -\sqrt{16 - x^{2}}$
 
+$\large 16 = y^{2} + x^{2}$
+
 ### [[Non-boxy Regions]]
 - Look at pyramid example
 	- May need to find the equation of a plane given 3 points
@@ -28,3 +30,5 @@ is a paraboloid that is shifted down 4 units and flipped upside down
 
 $\large x^{2} +y^{2}+z^{2} = 25$ 
 probably means we need to use spherical
+
+$\large z = \pm \sqrt{25 - x^{2} -y^{2}}$

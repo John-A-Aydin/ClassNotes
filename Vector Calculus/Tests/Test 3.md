@@ -8,8 +8,8 @@ Principle unit normal
 ### [[Cross Product]] and dot product
 - geometric interpretation
 	- The vector produced orthogonal
-- How to fund area of parallelogram made by two vectors
-Area of P = $\large ||\vec{w} \times \vec{v}||$
+- How to find area of parallelogram made by two vectors
+	Area of P = $\large ||\vec{w} \times \vec{v}||$
 
 ### [[Arc Length]]
 - Formula will be given
@@ -48,6 +48,10 @@ only 2d vector fields
 ### [[Line or Path Integral]] of scalar functions
 - Formula will be given
 - Look for $\large dS$
+$\large dS \Rightarrow ||\vec{r'(t)}||$
+
+For vector field:
+$\large dS \Rightarrow r'(t)\; dt$
 
 ### Work
 could be 3d check [[Line or Path Integral]] for notes on 

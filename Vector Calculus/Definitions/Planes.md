@@ -36,5 +36,8 @@ This can be found with the [[Determinant|determinant]]
 $\large \vec{N} = \langle1,-1,1\rangle$
 
 If 
-$$$$
-
+$$\large \vec{N} = \big\langle a, b, c \big\rangle$$
+then the equation for the plane whose [[Normal Vector]] is $\large N$ is:
+$$\large a(x-x_{1}) + b(y-y_{1})+c(z-z_{1}) + d = 0$$
+where $\large d$ is some constant.
+$\large d = $

@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-  L    et $\large C$ be a curve that is parameterized by a [[Vector-Valued Function]]
-=======
-oLet $\large C$ be a curve that is parameterized by a [[Vector-Valued Function]]
->>>>>>> 77dc23754e5a40d1bdb7ae0c55abf259c000f96d
-$\large \vec{r}(t) = \langle x(t), y(t) \rangle$,    $\large a \le t \le b$
-
+Let $\large C$ be a curve that is parameterized by a [[Vector-Valued Function]]
+$$\large \vec{r}(t) = \langle x(t), y(t) \rangle ,\;\;
+a \le t \le b$$
 How do we find the linear distance covered by this curve $\large C$ for $\large a \le t \le b$?
-
 In Calc II we might have seen:
 $$\large L = \int_{a}^{b} \sqrt{[x'(t)]^{2} + [y'(t)]^{2}} \; d t$$
 

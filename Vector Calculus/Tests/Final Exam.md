@@ -38,7 +38,7 @@ WILL HAVE DIV / CURL
 
 $$\large \text{velocity} = \vec{F}(t)$$
 $$\large \text{acc} = \vec{F}'(t)$$
-$$\large \text{pos} = \int\vec{F}(t) \; dt$$
+$$\large \text{pos} = \int\vec{F}(t) \; dt + \vec{C}$$
 
 ### Example
 
