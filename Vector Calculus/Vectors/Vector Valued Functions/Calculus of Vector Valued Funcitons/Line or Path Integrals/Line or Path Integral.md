@@ -32,7 +32,7 @@ $\large dS = \sqrt{(\frac{dx}{dt})^{2} + (\frac{dy}{dt})^{2}}\;dt \Rightarrow dS
 
 $$\Large \int_{C} f(x,y) \; d S = \int_{a}^{b} f(x(t), y(t)) \; \sqrt{[x'(t)]^{2} + [y'(t)]^{2}}\; dt$$
 or
-$$\Large \int_{C}f(x,y)dS = \int_{a}^{b} f\big(x(t),y(t)\big) ||\vec{r'(t)}|| \; d t$$
+$$\Large \int_{C}f(x,y)dS = \int_{a}^{b} f\big(x(t),y(t)\big) ||\vec{r}'(t)|| \; d t$$
 ### Properties of Line Integrals
 Let $\large a \text{ and } b$ be constants
 $$\large \int_{C} af(x,y) \pm bg(x,y) \; d S  = a\int_{C} f(x,y) \; d S \pm b \int_{C} g(x,y) \; d S \tag{1}$$
