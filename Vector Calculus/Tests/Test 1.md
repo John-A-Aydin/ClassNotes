@@ -62,7 +62,7 @@ This will be a word problem
 
 1. $\large z=f(x,y)$
 2. $\large f(x,y,z) = C$
-$\large f_{x}(P_{0})(x-x_{0})$ 
+$\large f_{x}(P_{0})(x-x_{0})$ ...
 Only bother to remember the equation for $\large f(x,y,z)$
 
 # 14.7 (Local Extrema)
