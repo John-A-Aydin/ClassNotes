@@ -3,7 +3,7 @@ The solution to Maxwell's Equations explain why light behaves like a wave.
 Charge located at $\large ( x , y , z )$ and at time $\large t$ then
 $$\large E(x, y, z, t) = \text{electrical intensity field}$$
 $$\large H(x,y,z,t) = \text{magnetic intensity field}$$
-Electro-Magnetic field is described by
+An Electro-Magnetic field is described by
 $$\large \nabla \cdot \vec{E} = \frac{Q}{\epsilon_{0}} \tag{1}$$
 $$\large \nabla \cdot(\mu \vec{H}) = 0 \tag{2}$$
 $$\large  \nabla \times \vec{E} = -\mu \frac{\partial \vec{H}}{\partial t} \tag{3}$$
