@@ -28,3 +28,4 @@ Register for Thea 200 section 003
 https://web.qa.sc.edu/study/colleges_schools/artsandsciences/dllc/study/placement/register.php
 
 maybe Italian over summer 
+
